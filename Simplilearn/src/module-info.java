@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author chand
- *
- */
-module Simplilearn {
-}
